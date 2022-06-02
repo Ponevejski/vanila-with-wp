@@ -6,7 +6,7 @@ This is a repossitory for [Webpack Configuration step by step - Development to P
 
 To run this locally:
 
-1. Clone project `git clone https://github.com/finmavis/webpack-4-boilerplate.git .`
+1. Clone project
 2. Install all dependencies using `yarn` or `npm install`
 3. Start the development server using `yarn start` or `npm run start`
 4. Open up [http://localhost:3000](http://localhost:3000)
