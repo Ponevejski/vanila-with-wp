@@ -1,0 +1,13 @@
+body {
+  .example-wrapper {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h1 {
+      font-size: 30px;
+    }
+  }
+}
